@@ -47,5 +47,13 @@ var addon_dictionary = {
 		  "constellation": ["light", "beginning"],
 		  "glory": ["man", "travel"]
 	  }
-  }
+  },
+	"tb": {
+		"name": "Thaumic Boots",
+		"aspects": ["space", "boots"],
+		"combinations": {
+			"space": ["crystal", "metal"],
+			"boots": ["armor", "travel"]
+		}
+	}
 };
